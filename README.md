@@ -24,4 +24,3 @@
 
 ---
 
-## 📂 Folder Layout
