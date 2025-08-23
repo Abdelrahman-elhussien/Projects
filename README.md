@@ -1,7 +1,3 @@
-<!-- Hero Banner -->
-<p align="center">
-  <img src="assets/banner.png" alt="AI Project Banner" width="100%"/>
-</p>
 
 # 🚀 AI & Deep Learning Playground
 
