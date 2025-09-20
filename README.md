@@ -44,12 +44,6 @@ The goal is to build state-of-the-art models, experiment with novel architecture
 
 ---
 
-
-## 📜 License
-This repository is licensed under the [MIT License](LICENSE).  
-
----
-
 ✨ *Always learning. Always building.*  
 
 
