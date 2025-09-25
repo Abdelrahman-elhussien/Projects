@@ -41,7 +41,7 @@ The goal is to build state-of-the-art models, experiment with novel architecture
 9- **Traffic Sign Recognition (CNNs)** – Road sign detection for autonomous driving.  
 10- **Linear & Logistic Regression** – Core ML algorithms implemented from scratch.  
 11- **K-Means & KNN** – Clustering & classification algorithms from scratch.  
-
+12- **Random Forest** – For Heart Disease classification .
 ---
 
 ✨ *Always learning. Always building.*  
